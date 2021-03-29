@@ -1,0 +1,12 @@
+name: KorupsiStatsExplorer
+title: KorupsiStatsExplorer
+username:
+account: cegahkorupsi
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2988892
+bundleId: 3874230
+url: https://cegahkorupsi.shinyapps.io/KorupsiStatsExplorer/
+when: 1605668658.73905
+asMultiple: FALSE
+asStatic: FALSE
